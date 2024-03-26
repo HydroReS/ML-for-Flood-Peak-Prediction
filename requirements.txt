@@ -1,0 +1,11 @@
+pandas
+sklearn
+np
+IPython
+scipy
+pydot
+graphviz
+scikit-optimize
+optuna
+ipywidgets
+lightgbm
